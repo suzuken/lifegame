@@ -1,0 +1,22 @@
+{
+  "name": "lifegame",
+  "description": "lifegame with vue.js",
+  "version": "0.0.1",
+  "keywords": [],
+  "main" : "src/main.js",
+  "scripts": [
+    "src/main.js"
+  ],
+  "styles": [
+    "src/styles/main.css"
+  ],
+  "paths": [
+    "components",
+    "src/components"
+  ],
+  "dependencies": {
+    "yyx990803/vue": "*"
+  },
+  "development": {},
+  "license": "MIT"
+}
